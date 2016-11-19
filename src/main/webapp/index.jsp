@@ -14,8 +14,8 @@
 <h1>index page</h1>
 <form action="/users" method="post">
     <input type="hidden" name="action" value="login">
-    <input type="text" name="email" placeholder="EMAIL" value="tester@test.com"><br>
-    <input type="password" name="password" placeholder="PASSWORD" value="123"><br>
+    <input type="text" name="email" placeholder="EMAIL" value="test@test.com"><br>
+    <input type="password" name="password" placeholder="PASSWORD" value="123456"><br>
     <input type="submit" value="LOG IN">
 </form>
 <hr>
